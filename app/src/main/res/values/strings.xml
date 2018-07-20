@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewsTestApp</string>
+    <string name="title_activity_bla">bla</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">News App</string>
+    <string name="nav_header_subtitle">Developed by IDmikael</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--NAVIGATION TITLES-->
+    <string name="nav_all_news">All News</string>
+    <string name="nav_top_headlines">Top Headlines</string>
+    <string name="nav_news_from_database">News From Database</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
